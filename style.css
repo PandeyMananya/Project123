@@ -1,0 +1,30 @@
+.heading{
+    width: 100%;
+    font-size: large;
+    box-shadow: 5px 5px 28px black;
+    margin:0px;
+    padding: 10px;
+}
+.NOTE{
+    font-size: medium;
+    color: red;
+}
+body{
+    background-color:aquamarine;
+}
+.footer{
+    width: 100%;
+    position: fixed;
+    background-color: grey;
+    bottom: 0px;
+    color:white ;
+    font-weight: bold;
+    padding: 5px;
+    box-shadow: 5px 5px 28px black ;
+}
+canvas{
+    box-shadow:5px 5px 28px black;
+    border-radius: 20px;
+    background-color: pink;
+    
+}
